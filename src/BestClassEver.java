@@ -1,3 +1,3 @@
 public class BestClassEver {
-    private int myNumber;
+    public int myNumber;
 }
